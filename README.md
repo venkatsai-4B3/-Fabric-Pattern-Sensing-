@@ -1,4 +1,4 @@
-# 🧵 Pattern Sense: Fabric Pattern Classifier
+# <><><><> Pattern Sense: Fabric Pattern Classifier <><><><>
 
 A web-based deep learning app to classify fabric patterns using PyTorch and Flask.
 
